@@ -1,7 +1,7 @@
 # Analyze bird counts
 # All rights reserved
 
-Read data file
+Read data file and second data file
 
 Run analysis
 
