@@ -13,3 +13,5 @@ Save small figure, thick red line
 Compare first and second data file
 
 Make a nice plot for first and second data
+
+Save double plot, nice axes
